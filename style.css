@@ -26,26 +26,26 @@ body {
  box-shadow:none;
  }
 
- .pillow1 {
+.pillow1 {
   color:white;
   background-color:white;
   border:none;
-  border-radius:5px;
-  padding-left:20px;
-  padding-right:20px;
-  padding-top:10px;
-  padding-bottom:10px;
+  border-radius: 5px;
+  padding-left:60px;
+  padding-right:60px;
+  padding-top:30px;
+  padding-bottom:30px;
   cursor:pointer;
   transition:padding-right 0.5s, padding-top 0.5s, padding-left 0.5s, padding-bottom 0.5s;
  }
 
  .pillow1:active {
-  padding-left:40px;
-  padding-right:40px;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding-left:30px;
+  padding-right:30px;
+  padding-top:15px;
+  padding-bottom:15px;
  }
 
  a {
-  text-decoration:none;
+  color: rgb(56, 56, 56);
  }
